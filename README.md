@@ -4,7 +4,8 @@
 # [Project 1: Customer Insight](https://github.com/frijol2105/Customer_Insight)
 
 Tools are used for this project: PowerBI and Python.
-Data was taken from kaggle (link: https://www.kaggle.com/datasets/georgerocha/ifooddataadvancedanalyticstest)
+Data was taken from kaggle 
+(link: https://www.kaggle.com/datasets/georgerocha/ifooddataadvancedanalyticstest)
 
 
 - This is a personal project where i use RFM model and Correlation to define customer and understand their behavior purchasing.
