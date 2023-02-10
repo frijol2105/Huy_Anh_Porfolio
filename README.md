@@ -1,6 +1,3 @@
-#Huy_Anh_Porfolio
-
-
 # [Project 1: Customer Insight](https://github.com/frijol2105/Customer_Insight)
 
 Tools are used for this project: PowerBI and Python.
